@@ -103,7 +103,7 @@ ul, li{
 
  @media (max-width: 665px) { 
     .header .header-overlay .content{
-        margin: 0 40px;
+        margin: 0 25px;
     }
     .header .header-overlay img{
         width: 300px;
@@ -118,7 +118,7 @@ ul, li{
         font-size: 15px;
     }
     .header .header-overlay .subscribe .form-group{
-        width: 320px;
+        width: 330px;
     }
     .header .header-overlay .social-link ul a{
         width: 40px;
