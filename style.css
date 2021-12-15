@@ -9,7 +9,7 @@ ul, li{
     list-style: none;
 }
 .header{
-    background-image: url('./img/wallpaperbetter.com_1366x768.jpg');
+    background-image: url('./wallpaperbetter.com_1366x768.jpg');
     background-position: center center;
     background-size: cover;
 }
